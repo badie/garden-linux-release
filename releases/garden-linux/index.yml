@@ -474,4 +474,6 @@ builds:
     version: 11.24.0
   c7749cec-e898-4b3c-9fd4-a8c557e74cb1:
     version: 2.1.0
+  b9a25324-c90e-42ef-b478-378352f4d9d0:
+    version: 2.2.0
 format-version: '2'
