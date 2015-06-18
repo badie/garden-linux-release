@@ -6,6 +6,3 @@ To deploy Garden Linux to its own virtual machine follow the [Vagrant BOSH instr
 
 Either way, when you're done, Garden Linux should be running and you can create containers, run a process in a container, and so on via the [REST API](https://github.com/cloudfoundry-incubator/garden#rest-api).
 
-
-
-
