@@ -480,4 +480,6 @@ builds:
     version: 2.3.0
   547b187d-81c0-4a2a-8fed-4f94e936df66:
     version: 2.4.0
+  28564e19-4c18-4765-82db-8047bb75bd35:
+    version: 3.0.0
 format-version: '2'
