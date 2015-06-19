@@ -478,4 +478,6 @@ builds:
     version: 2.2.0
   0a686f3e-027c-47f4-a1b0-9aec05e735a1:
     version: 2.3.0
+  547b187d-81c0-4a2a-8fed-4f94e936df66:
+    version: 2.4.0
 format-version: '2'
